@@ -4,7 +4,7 @@ A Front-end enthusiast, love to code & implement great UI/UX,
 also like to watch Formula 1 🏎</h3>
 
 
-- I'm intersted in Front-end Web Development
+- ✨ I'm intersted in Front-end Web Development
 - 🌱 I’m currently learning **Next.js**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tegarjoko&count_private=true&show_icons=true&locale=en&layout=compact" alt="tegarjoko" /></p>
