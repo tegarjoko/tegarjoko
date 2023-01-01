@@ -7,6 +7,6 @@ also like to watch Formula 1 🏎</h3>
 - ✨ I'm intersted in Front-end Web Development
 - 🌱 I’m currently learning **Next.js**
 
-<center><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tegarjoko&count_private=true&show_icons=true&locale=en&layout=compact" alt="tegarjoko" /></p></center>
-
-<center><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tegarjoko&show_icons=true&locale=en" alt="tegarjoko" /></p></center>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tegarjoko&count_private=true&show_icons=true&locale=en&layout=compact" alt="tegarjoko" /></p>
+<br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tegarjoko&show_icons=true&locale=en" alt="tegarjoko" /></p>
