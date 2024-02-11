@@ -9,6 +9,3 @@ also like to watch Formula 1 🏎</h3>
 <p align="center" width="100%">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tegarjoko&count_private=true&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="tegar joko"/>
 </p>
-<p align="center" width="100%">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tegarjoko&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="tegar joko" />
-</p>
